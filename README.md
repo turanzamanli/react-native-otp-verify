@@ -41,10 +41,6 @@ With the SMS Retriever API, you can perform SMS-based user verification in your 
 ```javascript
 import RNOtpVerify from 'react-native-otp-verify';
 
-getHash = () =>
-    RNOtpVerify.getHash()
-    .then(console.log)
-    .catch(console.log);
 
 startListeningForOtp = () =>
     RNOtpVerify.getOtp()

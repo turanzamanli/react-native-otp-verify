@@ -15,11 +15,11 @@
     "Verification",
     "Sms-retreiver"
   ],
-  "author": "Faizal Shap",
+  "author": "Turan Zamanli",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:faizalshap/react-native-otp-verify.git"
+    "url": "git@github.com:turanzamanli/react-native-otp-verify.git"
   },
   "peerDependencies": {
     "react-native": "*"
