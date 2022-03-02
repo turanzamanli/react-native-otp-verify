@@ -1,7 +1,7 @@
 {
-  "name": "react-native-otp-verify",
-  "version": "1.0.2",
-  "description": "React native sms verification without additional permissions.",
+  "name": "react-native-otp-verifier",
+  "version": "1.0.0",
+  "description": "React native sms verification without additional permissions and hash.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
